@@ -3,7 +3,6 @@
 <html lang="it">
 <head>
   <meta charset="UTF-8">
-  <title>La mia pagina su GitHub Pages</title>
 </head>
 <body>
   <h1>Sito di Giulia Longagnani!</h1>
