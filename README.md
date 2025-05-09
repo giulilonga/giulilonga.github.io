@@ -6,7 +6,7 @@
   <title>La mia pagina su GitHub Pages</title>
 </head>
 <body>
-  <h1>Ciao dal mio Web Server!</h1>
-  <p>Questa è una semplice pagina pubblicata con GitHub Pages.</p>
+  <h1>Sito di Giulia Longagnani!</h1>
+  <p>Primo sito</p>
 </body>
 </html>
